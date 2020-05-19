@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        h1 {
+            text-align: center;
+        }
+        img {
+            width: 20%;
+        }
+    </style>
+    <title>Github Web Page</title>
+</head>
+<body>
+    <h1>Services in a Virtual World</h1>
+    <br>
+    <h3>Health/Checkups</h3>
+    <p><p>You’re probably wondering what services are out there to help you adjust to the sudden stay at home orders affecting most of us across the globe. With the crowding of hospitals being a major issue for a lot of us currently, “The Department of Health and Human Services has temporarily relaxed HIPAA laws to allow apps such as FaceTime and Skype to be used for virtual doctor appointments.” Nonetheless, if you’re able to see a medical professional face to face that would be your best call.</p></p>
+    <img src="https://lh4.googleusercontent.com/_23gfp4w-tQlueznBm7CjkYpMeqmI0-rbmv9CYd6pP1hYxwM0iuU5iF5Ix_9DcL5LCJY8TC0bPABUa_4GcUXfJK4sPj8jbZK6JZI9yfJxvRH6rwc6mX-bog7s1ODFuVNuOOI0kOE" alt="Health">
+    <br><br>
+    <h3>Symptom Tracker</h3>
+    <p>Other services such as the symptom tracker have been a really great help to medical professionals during these tough times. The symptom trackers have been recording data from people all over the world to help them realize if they have symptoms of Covid-19, “These apps typically ask users to check in every day to report how they feel and if they have any symptoms.”. These measures we are taking now will help with data sourcing, preventing the spread of COVID-19, and letting us know if things like social distancing are actually effective.</p>
+    
+    <br><br>
+    <h3>Thermal Cameras</h3>
+    <p>Big companies like Amazon have started to roll out thermal cameras to their buildings. Thermal cameras are useful by allowing them to be set-up at main entrances, this is helpful because “The cameras in effect measure how much heat people emit relative to their surroundings. They require less time and contact than forehead thermometers,”. Amazon has reported cases of COVID-19 across 50 U.S. warehouse’s, but should hopefully expect a decrease in those numbers significantly due to the cameras. It is becoming a huge help in sending those who are feeling sick home and making it harder for those who might not be following the rules to get inside.</p>
+    <img src="https://www.flir-direct.com/images/products/cache/flir_systems/78506_0301_kit/main/flir-78506-0301-kit-e95-advanced-thermal-imaging-camera-with-msx-e95-24-14-42-kit.jpg" alt="">
+    <br><br>
+    <h3>Delivery Services</h3>
+    <p>With many people using food delivery apps as a convenient way to get food during these times of social distancing, they also might feel wary about doing so. I say this because coming into contact with other people isn’t safe currently in the world and most of us want to take extra precautions to make sure that we’re safe and that we’re helping to keep others safe. Companies like Pizza Hut, Instacart, and Little Caesars are offering “contactless delivery” to help fight the spread of COVID-19. Contactless delivery gives you the option to tell the driver to leave your food outside your front door. That way you or the driver won't be in harm's way, and you can enjoy your food comfortably.</p>
+    <img src="https://lh6.googleusercontent.com/ml6MPG_-WzvrDwJ2Hpi9RbvHf4ykJ3ysRpyQeB0Eg0VO7O5A1TO4PAzHs7S0uGKjw4OV8oRy91F7hZS3nLcU8WQ1RQ_Mu3xMFv4KRyTxyJ5R-p0t7LdGlq8PgW26cn3MxTVnJWWN" alt="">
+    <br><br>
+    <h3>Gaming Community</h3>
+    <p>The gaming community has also been adapting during these difficult times by doing things like hosting live concerts on their platforms. Travis Scott hosted a live concert on the popular gaming app Fortnite earlier this week, which had an attendance of over 12 million people. There were so many people in attendance due to the stay at home orders that the stream even beat a record placed by artist Marshmello back in 2019.</p>
+    <img src="https://lh6.googleusercontent.com/4elweTIGeOGLlOu8HizPyRhaDi978WpvO-NVvhLDi9QcE_EZU_F10OAHx4hLmSdqR3nFACC3RGacd87iUl6iz3nR3dfzd3i0CxJeSnzLquF6pItJUU1-_TgX0qMex8MkyQghtf7Z" alt=""> <img src="https://lh5.googleusercontent.com/FLeNPHpOiuzHD03vKNQeY_aQ3DxSGBtVwyAxXGnLvq_ElOG832ZiHXQCVa2tZ2rjcNG_MjcuNYbyamb4LUasJhQOvcYbUNgdIkcUK6NneoA4vZRpIV6hcrjoGwD4R3-yC_YKWftV" alt="">
+
+    
+
+
+</body>
+</html>
